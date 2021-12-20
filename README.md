@@ -113,3 +113,8 @@ Here are some ideas to get you started:
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Darkhorse07232020&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Darkhorse07232020&theme=highcontrast&include_all_commits=true" alt="my github stats" height="190px" />
+    &nbsp;
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Darkhorse07232020&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
+</p>
