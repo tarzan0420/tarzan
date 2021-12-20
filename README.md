@@ -110,3 +110,6 @@ Here are some ideas to get you started:
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Darkhorse07232020&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
+</p>
